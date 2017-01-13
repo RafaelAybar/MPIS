@@ -1,4 +1,4 @@
-#On MPIS we have#
+#On MPIS stable we have#
 * Desktop
     * KDE PLASMA
     * XFCE
